@@ -8,7 +8,7 @@ const UseState = () => {
 
     return (
         <>
-            <div className ="container">
+            <div className ="container1">
                 <div className="center_div">
                     <p>{myNumber}</p>
                     <div className="button2" onClick={() => setmyNumber(myNumber + 1)}>

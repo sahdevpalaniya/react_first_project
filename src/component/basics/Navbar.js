@@ -4,7 +4,7 @@ import React from 'react';
 const Navbar = ({ filterItem, MenuList }) => {
     return (
         <>
-            <nav className="navbar">
+            <nav className="navbar1">
                 <div className="btn-group">
                     {
                         MenuList.map((curElem) => {
